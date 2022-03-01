@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pindarick ode on the death of His Late Sacred Majesty King Charles II. of blessed memory. By J.H. Esq;.</title>
+            <author>J. H., Esq.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03758</idno>
+            <idno type="OCLC"> 13648337</idno>
+            <idno type="STC">Wing H76</idno>
+            <idno type="STC">Interim Tract Supplement Guide 806.k.16[115]</idno>
+            <idno type="STC">ESTC R68</idno>
+            <idno type="EEBO-CITATION">99890863</idno>
+            <idno type="PROQUEST">ocm99890863</idno>
+            <idno type="VID">181722</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03758)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181722)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:1[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Pindarick ode on the death of His Late Sacred Majesty King Charles II. of blessed memory. By J.H. Esq;.</title>
+                  <author>J. H., Esq.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S.T. and are to be sold by Randal Tailor near Stationers Hall,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>A bifolium.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Pindaric_ode">
+            <pb n="1" facs="tcp:181722:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 45 -->
+            <head>A Pindarick ODE ON THE DEATH Of His Late Sacred Majeſty King CHARLES II. OF BLESSED MEMORY.</head>
+            <byline>By <hi>J. H.</hi>
+               <abbr>Eſq</abbr>
+            </byline>
+            <epigraph>
+               <q xml:lang="lat">
+                  <l>Stat ſua cui<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> dies breve &amp; irreparabile tempus,</l>
+                  <l>Omnibus eſt vitae; ſed famam extendere factis,</l>
+                  <l>Hoc virtutis opus—</l>
+                  <bibl>Virg.</bibl>
+               </q>
+            </epigraph>
+            <lg>
+               <l>STruck with the horror of the Diſmal News,</l>
+               <l>And ſunk with the dead weight of Grief,</l>
+               <l>Beneath a Doting Willows Shade,</l>
+               <l>A while the Melancholy Muſe</l>
+               <l>Deſpairing of Relief,</l>
+               <l>Was gaſping laid.</l>
+               <l>
+                  <hi>Diana</hi> Mourns behind a Gloomy Cloud,</l>
+               <l>
+                  <hi>Apollo</hi> with a faint and glimm'ring Ray,</l>
+               <l>Guides the unwilling progreſs of the day,</l>
+               <l>And <hi>Winds</hi> do ſeem to ſigh aloud.</l>
+               <l>
+                  <pb n="2" facs="tcp:181722:2"/>
+                  <!-- PDF PAGE 46 -->
+The Mourning Groves their Ruſſet Garments wear,</l>
+               <l>And Nature has forgot the Seaſons of the Year;</l>
+               <l>The Trees ſeem to refuſe to grow,</l>
+               <l>Naked and Shievering on the Plain,</l>
+               <l>The Roots the Vital Sap retain,</l>
+               <l>To ſpend in Melting Tears below.</l>
+               <l>
+                  <hi>Atlas</hi> beneath his Leaden Weight does groan<g ref="char:punc">▪</g>
+               </l>
+               <l>His Hamſtrings yield, his Sinews crack,</l>
+               <l>The ſtupid Lump lies heavy on his Back,</l>
+               <l>The Worlds Enliv'ning Spirit, <hi>Caeſar,</hi> gone,</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>We thought when <hi>Walcot, Rouſe</hi> and <hi>Hone,</hi>
+               </l>
+               <l>And others of that bloody Crew,</l>
+               <l>Received the Juſtice to their Treaſons due,</l>
+               <l>Our Fears would end, all dangers gone,</l>
+               <l>Whilſt no appearance of Rebellion:</l>
+               <l>But when we thought all danger paſt,</l>
+               <l>When Plots againſt our King began to ceaſe,</l>
+               <l>Lo! A new Traytor to diſturb our Peace,</l>
+               <l>The Traitor Death Rebels at laſt,</l>
+               <l>The Traitor Death, that grinning Slave,</l>
+               <l>That Servile Wretch, ſo long had been</l>
+               <l>A Subject of our Soveraign,</l>
+               <l>Had ſent a Thouſand Rebels to their Graves,</l>
+               <l>Yet durſt not ſtrike when he ſaid, <hi>Let him Live,</hi>
+               </l>
+               <l>The Power of Life and Death was his Prerogative:</l>
+               <l>Therefore Death durſt not the Dread Monarch ſeize,</l>
+               <l>But Rebel-like on unfore-ſeen Surprize.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>Once heretofore we thought our Monarch dead,</l>
+               <l>Dead unto us, civilly Buried,</l>
+               <l>Encompaſs'd round with Rotteneſs, when he</l>
+               <l>Lay Coffin'd up within the Royal Tree:</l>
+               <l>'Twas then the wounded Nation bled,</l>
+               <l>Then 'twas her Crimſon Tears were ſhed;</l>
+               <l>'Twas then were heard Three Kingdoms Tragick Groans,</l>
+               <l>Lab'ring with ſtrong Convulſions:</l>
+               <l>But Heav'ns Eternally be prais'd,</l>
+               <l>Our Sov'raign from the Dead was rais'd,</l>
+               <l>
+                  <pb n="3" facs="tcp:181722:2"/>
+                  <!-- PDF PAGE 46 -->
+Return'd again, with Bleſſings Crown'd,</l>
+               <l>And ſpreading Univerſal Joys around;</l>
+               <l>Like <hi>Sol</hi> from Nights dark Priſons ſprung,</l>
+               <l>He clear'd our Sky, diſperſt our Fogs, and with freſh Luſtre ſhon</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>But ah! I tremble to relate,</l>
+               <l>The irreſiſtable decrees of Fate,</l>
+               <l>The awful Prince is dead, and 'tis in vain</l>
+               <l>To hope he'll be reſtor'd again;</l>
+               <l>No, he has left his Houſe of Clay,</l>
+               <l>In the ſwift Wings of Angels born away,</l>
+               <l>To the bright regions of Eternal Day.</l>
+               <l>And 'twas but fit a Soul divinely great,</l>
+               <l>Should quit this Periſhable World for a Coeleſtial Seat.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>Then lets no longer idly moan</l>
+               <l>At his ſublime Tranſlation,</l>
+               <l>Only his Droſſy parts of Clay,</l>
+               <l>Crumble to duſt, and fade away.</l>
+               <l>(If any Droſs were poſſible to be</l>
+               <l>In one ſo exquiſitely fine as he!)</l>
+               <l>He's Crown'd above with an immortal bliſs,</l>
+               <l>Smiles at the little Honours of an Earthly King,</l>
+               <l>Heavens bleſſed Quire, their ſacred Anthems ſing,</l>
+               <l>To welcome, and congratulate the Royal Gueſt.</l>
+            </lg>
+            <lg>
+               <head>VI.</head>
+               <l>Nor is he Immortal only there,</l>
+               <l>He lives too with New Glories here,</l>
+               <l>Lives in his Fame, within Life's narrow ſpan,</l>
+               <l>Has gain'd a Name of infinite duration.</l>
+               <l>While we, the buſie Mobile,</l>
+               <l>And all our mean poſterity,</l>
+               <l>Muſt yield to Death, and not a Name ſhall be</l>
+               <l>Left, to preſerve our Memory;</l>
+               <l>When Tombs themſelves ſhall antiquated be,</l>
+               <l>Themſelves want Monuments, to preſerve</l>
+               <l>Their Memories from the Grave:</l>
+               <l>His great Heroick Actions ſhall be known,</l>
+               <l>To after Ages, handed down,</l>
+               <l>By an infallible Tradition:</l>
+               <l>Ages to come ſhall talk of Wonders paſt,</l>
+               <l>And Fame ſhall eccho <hi>Charles</hi> His worth, while time it ſelf ſhall laſt.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="4" facs="tcp:181722:3"/>
+            <!-- PDF PAGE 47 -->
+            <head>To His Moſt Excellent Majeſty King JAMES II.</head>
+            <l>WHile all your Subjects their Allegiance pay,</l>
+            <l>And at your Feet their grateful Offerings lay;</l>
+            <l>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Dread Soveraign, an Officious Swain,</l>
+            <l>
+               <gap reason="illegible" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap>ſh all Bleſſings to your Peaceful Reign;</l>
+            <l>A<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> the Bards, my Maſters, I remain</l>
+            <l>To pay my Vows, the meaneſt of the Train.</l>
+            <l>Hail, <hi>Englands</hi> Glory! Heavens peculiar Care!</l>
+            <l>Whoſe chief Life-Guard the bleſſed Angels are,</l>
+            <l>Breath of our Noſtrils, Hail!—</l>
+            <l>Heav'n kept you from the tempeſts of the Seas,</l>
+            <l>And from th' excluding Votes, more turbulent then theſe.</l>
+            <l>A while like ſtupid Brutes, wee've ſenſeleſs lain,</l>
+            <l>You'r the reſtorer of our Wits again.</l>
+            <l>Vice ſhall abſcond, while you the Scepter ſway,</l>
+            <l>And Frauds diſcountenanc'd ſhall ſneak away:</l>
+            <l>Vertue exalted on her higheſt ſphear,</l>
+            <l>Without Eclipſe in ſplendor ſhall appear.</l>
+            <l>Juſtice within her bounds, like <hi>Thames</hi> ſhall flow,</l>
+            <l>With equal currrent; nor ſupinely ſlow,</l>
+            <l>Nor yet too ſwift; nor ſhall fierce Tempeſts blow,</l>
+            <l>To wrinkle, or moleſt her even brow:</l>
+            <l>But if our <hi>Engliſh</hi> Giants ſhall rebel,</l>
+            <l>
+               <hi>Caeſar</hi> like <hi>Jove,</hi> can frown and thunder them to Hell.</l>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>S. T.</hi> and are to be ſold by <hi>Randal Tailor</hi> near <hi>Stationers Hall</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
